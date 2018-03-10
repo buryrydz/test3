@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/buryrydz/LantmaterietWaypointsManager.git"
+    "url": "git+https://github.com/buryrydz/test3.git"
   },
   "author": "Marek Zdun",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/buryrydz/LantmaterietWaypointsManager/issues"
+    "url": "https://github.com/buryrydz/test3/issues"
   },
-  "homepage": "https://github.com/buryrydz/LantmaterietWaypointsManager#readme",
+  "homepage": "https://github.com/buryrydz/test3#readme",
   "dependencies": {
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
